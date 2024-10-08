@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Test coverage reports
+htmlcov/
+.tox/
+noxfile.py
+.cache/
+
+# Virtualenv
+.python-version
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data
+training/PlantVillage/
